@@ -1,0 +1,12 @@
+{
+  "name": "image-gradient",
+  "version": "1.0.0",
+  "description": "Takes an image and generates a gradient like image based off of the colors that appear within it.",
+  "main": "index.js",
+  "author": "danieltrost",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "fs": "0.0.1-security"
+  }
+}
